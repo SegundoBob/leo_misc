@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/ldi/git/$LEO_BRANCH/launchLeo.py --maximize $@ >xallog 2>&1
